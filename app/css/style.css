@@ -1,0 +1,19 @@
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: #99ca99;
+  font-size: 24px;
+  color: #24256e; }
+
+div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+
+p {
+  background: yellow;
+  font-size: 15px;
+  color: green; }
+
+/*# sourceMappingURL=style.css.map */
